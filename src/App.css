@@ -1,0 +1,13 @@
+  
+a {
+	padding: 10px;
+}
+
+a,
+a:visited {
+	color: blue;
+}
+
+a.active {
+	color: red;
+}

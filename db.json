@@ -1,0 +1,52 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "name": "C1",
+      "fees": "4000"
+    },
+    {
+      "id": 2,
+      "name": "C2",
+      "fees": "4500"
+    },
+    {
+      "id": 3,
+      "name": "C3",
+      "fees": "5000"
+    },
+    {
+      "id": 4,
+      "name": "C4",
+      "fees": "5550"
+    },
+    {
+      "id": 5,
+      "name": "C5",
+      "fees": "6000"
+    }
+  ],
+  "users": [
+    {
+      "currentCourseName": "C2",
+      "firstName": "kajal",
+      "lastName": "n",
+      "mobileNumber": "7417417417",
+      "id": 1
+    },
+    {
+      "currentCourseName": "C1",
+      "firstName": "shkdf",
+      "lastName": "ueitr",
+      "mobileNumber": "854155468",
+      "id": 2
+    },
+    {
+      "currentCourseName": "C3",
+      "firstName": "ytr",
+      "lastName": "rty",
+      "mobileNumber": "9511599515",
+      "id": 3
+    }
+  ]
+}
